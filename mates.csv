@@ -1,0 +1,4 @@
+#TYPE PSObject,,,
+name,postcode,weight
+Brenda,SW1A 1AA,1
+Dave,SW1A 0AA,1
